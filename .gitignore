@@ -1,0 +1,14 @@
+# 编译产物
+/bin/
+*.o
+*.a
+*.so
+*.out
+
+# 编辑器与系统临时文件
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
